@@ -1,12 +1,16 @@
 
 ![](https://pbs.twimg.com/profile_banners/3439458004/1676129723/600x200)
 
-### Hi there 👋, I'm Andre'
+# Andre' Dixon
 
 I'm based in from Florida, and I am Full Stack Developer. I really enjoy learning languages and frameworks like Figma and Webflow, as well as work in WordPress. I also enjoy ui, ux, branding and design in general.
 
 
-Skills: Html / CSS / JS / React / Figma / Webflow / Adobe Suite
+## Skills and experience: 
+
+* 💻 Html, CSS, Javascript, Figma, Webflow, Wordpress 
+ 
+* ⚛ React
 
 - 🌱 I’m currently learning Python, SQL 
 - 📫 How to reach me: andre@andrecreates.art 
