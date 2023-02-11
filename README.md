@@ -1,8 +1,25 @@
-### Hi there 👋
 
-I'm Andre' from Florida, and I am Full Stack Developer. I really enjoy learning languages and frameworks like Figma and Webflow, as well as work in WordPress. I also enjoy ui, ux, branding and design in general.
+![](https://pbs.twimg.com/profile_banners/3439458004/1676129723/600x200)
+
+### Hi there 👋, I'm Andre'
+
+I'm based in from Florida, and I am Full Stack Developer. I really enjoy learning languages and frameworks like Figma and Webflow, as well as work in WordPress. I also enjoy ui, ux, branding and design in general.
+
+
+Skills: Html / CSS / JS / React / Figma / Webflow / Adobe Suite
+
+- 🌱 I’m currently learning Python, SQL 
+- 📫 How to reach me: andre@andrecreates.art 
+- 😄 Pronouns: He/Him 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/andre.dixon.507)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/technopboss/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](www.andrecreates.art)  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreCreatesArt)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
